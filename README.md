@@ -126,5 +126,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luai-hawi&layout=compact&theme=dracula)
 
 ## 📈 GitHub Stats
-![Luai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaihawi&show_icons=true&theme=tokyonight)
+![Luai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luai-hawi&show_icons=true&theme=tokyonight)
 
